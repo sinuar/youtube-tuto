@@ -13,3 +13,4 @@
 11. git rebase
 12. git branch -d branch-heroes
 13. git push origin -u
+14. git commit -am "My commit"  (add . plus commit -m)
