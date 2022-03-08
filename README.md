@@ -12,4 +12,4 @@
 10. git merge
 11. git rebase
 12. git branch -d branch-heroes
-
+13. git push origin -u
