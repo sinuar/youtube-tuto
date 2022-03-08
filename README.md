@@ -4,4 +4,8 @@
 2. git add .
 3. git reset (revierte lo hecho por git add .)
 4. git commit -m
+5. git checkout -- .
+6. git log
+7. git commit --amend
+8. git checkout -b rama-heroes
 
