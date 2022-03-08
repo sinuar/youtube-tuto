@@ -7,8 +7,9 @@
 5. git checkout -- .
 6. git log
 7. git commit --amend
-8. git checkout -b rama-heroes
+8. git checkout -b branch-heroes
 9. git branch
 10. git merge
 11. git rebase
+12. git branch -d branch-heroes
 
